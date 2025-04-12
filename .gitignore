@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Local env files
+.env
+.env.*.local
+
+# Vite cache
+.vite/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Optional: Mac/Linux swap or temp files
+*.swp
+*.swo
+*.tmp
+
+# Optional: Windows system files
+ehthumbs.db
+Desktop.ini
